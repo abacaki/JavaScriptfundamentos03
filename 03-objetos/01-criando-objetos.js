@@ -1,6 +1,6 @@
 const aluno = {
     nome: "Yuri",
-    idade: 17,
+    idade: 16,
     nota: 10
 }
 
